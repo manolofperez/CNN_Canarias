@@ -8,4 +8,4 @@ TrainCalibrate_ModSel.py - python script for training and calibrating a CNN for 
 
 TrainParameterEst.py - python script for training a CNN to peform parameter estimation in the species *E. balsamifera* (script for *Kleinia* is similar).
 
-ABC_Esegueriana.md - Code and outputs for ABC cross-validation and empirical data prediction for model selection and parameter estimation in the species *Euphorbia balsamifera* (script for *Kleinia* is similar).
+ABC_Canarias.R - R script for ABC cross-validation and empirical data prediction for model selection and parameter estimation in the species *Euphorbia balsamifera* (script for *Kleinia* is similar).
