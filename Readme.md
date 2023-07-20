@@ -1,6 +1,6 @@
 # CNN_Canarias
 
-scripts from Rincon-Barrado thesis "Micro and macroevolution in the Rand Flora pattern: new advances in analytical tools integrating phylogenomics and phylogeography", to simulate and compare genetic datasets of two species from the Canary islands under different demographic scenarios. The selected model for each species was then used to perform parameter estimation. Both model comparison and parameter estimation were achieved by training a CNN, from which prediction were then used as Summary Statistics (SuSt) for ABC.
+scripts from Rincon-Barrado et al. "Phylogenomic reconstruction and deep learning reveal an ancient Rand Flora origin and a recent admixture history in the Canarian multi-island Endemic Kleinia neriifolia", to simulate and compare genetic datasets of Kleinia neriifolia from the Canary islands under different demographic scenarios.
 
 simulate_Euphorbia.py - python script to simulate segregating sites and save them as NumPy arrays for *Euphorbia balsamifera*. Simulations for the other species use a similar script, modified to reflect differences in the sample sizes and priors.
 
